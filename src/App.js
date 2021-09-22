@@ -41,10 +41,10 @@ function App() {
   return (
     <Container>
       <Row>
-      <BookList />
+      {/* <BookList /> */}
 
         
-      {/* <Books /> */}
+      <Books />
       </Row>
     </Container>
   
